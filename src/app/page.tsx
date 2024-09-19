@@ -7,7 +7,7 @@ const page = () => {
     <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-        Hy leazry house 3 Bedroom 2 Bathroom 1 Large living room 1OpenKitchen and 2car Grage good condation House.
+        Hy luxury house 3 Bedroom 2 Bathroom 1 Large living room 1OpenKitchen and 2car Grage good condation House.
         </p>
       </blockquote>
       <figcaption className="font-medium">
